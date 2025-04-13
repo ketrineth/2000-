@@ -28,6 +28,7 @@
   <ul>
     <li>⚡ Internet de banda ancha se vuelve más accesible.</li>
     <li>🛒 Auge del comercio electrónico: nacen plataformas como Amazon y eBay.</li>
+    <li>📲 Primeros smartphones y conexión móvil.</li>
   </ul>
 </body>
 </html>
